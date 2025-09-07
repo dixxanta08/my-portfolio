@@ -1,0 +1,259 @@
+[
+  {
+    "title": "Emsure: Insurance Management System",
+    "image": "/projects/emsure.png",
+    "featured": true,
+    "tags": ["React", "Node", "MySQL", "FullStack"],
+    "github-links": [
+      { "Frontend Code": "https://github.com/dixxanta08/emsure-frontend" },
+      { "Backend Code": "https://github.com/dixxanta08/emsure-backend" }
+    ],
+    "description": "Emsure is a comprehensive insurance management system designed to streamline insurance operations for both agents and customers. The platform provides a user-friendly interface for policy management, claims processing, and customer relationship management. Built with modern web technologies, it offers real-time data synchronization and secure user authentication.",
+    "personal-learnings": "I learned that building the Employee Insurance Tracking System taught me how modern tools (React, REST APIs, JWT, MySQL) can solve real issues like delays, fraud, and lack of transparency in health insurance. I saw how Agile practices and user feedback made the system scalable, secure, and user-focused. At the same time, I realized the limits of relying on small surveys, not testing for large-scale use, and working without deep stakeholder engagement. Going forward, I would improve by adding AI, blockchain, mobile access, and better integration tests while involving more stakeholders. Overall, the project showed me how tech can directly support social needs like fair healthcare.",
+    "images": [
+      {
+        "url": "/projects/emsure/activity-diagram-claim-submission-review.png",
+        "caption": "Activity Diagram illustrating the process of claim submission and review within the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Claim Submission Activity Diagram"
+      },
+      {
+        "url": "/projects/emsure/activity-diagram-company-registration-verification.png",
+        "caption": "Activity Diagram illustrating the process of company registration and verification within the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Company Registration Activity Diagram"
+      },
+      {
+        "url": "/projects/emsure/activity-diagram-insurance-worker-plan-configuration.png",
+        "caption": "Activity Diagram illustrating the process of insurance worker plan configuration within the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Insurance Worker Plan Configuration Activity Diagram"
+      },
+      {
+        "url": "/projects/emsure/activity-diagram-plan-subscription-by-employer.png",
+        "caption": "Activity Diagram illustrating the process of plan subscription by employer within the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Plan Subscription by Employer Activity Diagram"
+      },
+      {
+        "url": "/projects/emsure/activity-diagram-user-login-role-selection.png",
+        "caption": "Activity Diagram illustrating the process of user login and role selection",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - User Login Activity Diagram"
+      },
+      {
+        "url": "/projects/emsure/deployment-diagram.png",
+        "caption": "Deployment Diagram showing the architecture and deployment strategy for the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Deployment Diagram"
+      },
+      {
+        "url": "/projects/emsure/data-flow-diagram.png",
+        "caption": "Data Flow Diagram illustrating the flow of information within the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Data Flow Diagram"
+      },
+      {
+        "url": "/projects/emsure/enhanced-entity-relationship-diagram.png",
+        "caption": "Enhanced Entity-Relationship Diagram showing the relationships between entities in the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - EERD Diagram"
+      },
+      {
+        "url": "/projects/emsure/higher-level-uml-deployment-diagram.png",
+        "caption": "Higher Level UML Deployment Diagram illustrating the deployment architecture of the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Higher Level UML Deployment Diagram"
+      },
+      {
+        "url": "/projects/emsure/sitemap-diagram.png",
+        "caption": "Sitemap illustrating the structure and organization of the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Sitemap"
+      },
+      {
+        "url": "/projects/emsure/use-case-diagram.png",
+        "caption": "Use Case Diagram depicting the interactions between users and the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Use Case Diagram"
+      },
+      {
+        "url": "/projects/emsure/layered-architecture-diagram.png",
+        "caption": "Layered Architecture Diagram showing the different layers of the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Layered Architecture Diagram"
+      },
+      {
+        "url": "/projects/emsure/sequence-diagram-plan-subscription-by-employer.png",
+        "caption": "Sequence Diagram illustrating the plan subscription process by employer within the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Plan Subscription by Employer Sequence Diagram"
+      },
+      {
+        "url": "/projects/emsure/sequence-diagram-user-registration-email-verification.png",
+        "caption": "Sequence Diagram illustrating the user registration process with email verification within the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - User Registration with Email Verification Sequence Diagram"
+      },
+      {
+        "url": "/projects/emsure/sequence-diagram-claim-submission-review.png",
+        "caption": "Sequence Diagram illustrating the claim submission and review process within the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Claim Submission and Review Sequence Diagram"
+      },
+      {
+        "url": "/projects/emsure/sequence-diagram-plan-configuration-process.png",
+        "caption": "Sequence Diagram illustrating the plan configuration process within the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Plan Configuration Process Sequence Diagram"
+      },
+      {
+        "url": "/projects/emsure/sequence-diagram-company-registration-activation.png",
+        "caption": "Sequence Diagram illustrating the company registration and activation process within the insurance management system.",
+        "type": "Documentation Diagram",
+        "alt": "Emsure - Company Registration and Activation Sequence Diagram"
+      },
+      {
+        "url": "/projects/emsure/screenshot-admin-view.png",
+        "caption": "Admin dashboard interface showing administrative controls and system overview for the insurance management system.",
+        "type": "Application Screenshot",
+        "alt": "Emsure - Admin View Interface"
+      },
+      {
+        "url": "/projects/emsure/screenshot-claim-detail.png",
+        "caption": "Claim detail interface displaying comprehensive information about insurance claims and their status.",
+        "type": "Application Screenshot",
+        "alt": "Emsure - Claim Detail Interface"
+      },
+      {
+        "url": "/projects/emsure/screenshot-company-detail-page.png",
+        "caption": "Company detail page interface showing detailed information about registered companies and their insurance plans.",
+        "type": "Application Screenshot",
+        "alt": "Emsure - Company Detail Page Interface"
+      },
+      {
+        "url": "/projects/emsure/screenshot-company-report.png",
+        "caption": "Company report interface displaying analytics and reporting data for insurance companies.",
+        "type": "Application Screenshot",
+        "alt": "Emsure - Company Report Interface"
+      },
+      {
+        "url": "/projects/emsure/screenshot-employee-subscription-detail.png",
+        "caption": "Employee subscription detail interface showing individual employee insurance plan details and coverage information.",
+        "type": "Application Screenshot",
+        "alt": "Emsure - Employee Subscription Detail Interface"
+      },
+      {
+        "url": "/projects/emsure/screenshot-home-page.png",
+        "caption": "Home page interface of the insurance management system showing the main dashboard and navigation.",
+        "type": "Application Screenshot",
+        "alt": "Emsure - Home Page Interface"
+      },
+      {
+        "url": "/projects/emsure/screenshot-login-page.png",
+        "caption": "Login page interface providing secure authentication for users to access the insurance management system.",
+        "type": "Application Screenshot",
+        "alt": "Emsure - Login Page Interface"
+      },
+      {
+        "url": "/projects/emsure/screenshot-plan-detail.png",
+        "caption": "Plan detail interface displaying comprehensive information about insurance plans, coverage, and pricing.",
+        "type": "Application Screenshot",
+        "alt": "Emsure - Plan Detail Interface"
+      },
+      {
+        "url": "/projects/emsure/screenshot-plan-subscription.png",
+        "caption": "Plan subscription interface allowing users to subscribe to insurance plans and manage their coverage.",
+        "type": "Application Screenshot",
+        "alt": "Emsure - Plan Subscription Interface"
+      },
+      {
+        "url": "/projects/emsure/wireframe-company-dashboard.png",
+        "caption": "Wireframe design for the company dashboard UI within the insurance management system.",
+        "type": "UI/UX Design",
+        "alt": "Emsure - Company Dashboard Wireframe"
+      },
+      {
+        "url": "/projects/emsure/wireframe-choose-plans.png",
+        "caption": "Wireframe design for the choose plans interface within the insurance management system.",
+        "type": "UI/UX Design",
+        "alt": "Emsure - Choose Plans Wireframe"
+      },
+      {
+        "url": "/projects/emsure/wireframe-login.png",
+        "caption": "Wireframe design for the login interface within the insurance management system.",
+        "type": "UI/UX Design",
+        "alt": "Emsure - Login Wireframe"
+      },
+      {
+        "url": "/projects/emsure/wireframe-user-management-dashboard.png",
+        "caption": "Wireframe design for the user management dashboard within the insurance management system.",
+        "type": "UI/UX Design",
+        "alt": "Emsure - User Management Dashboard Wireframe"
+      },
+      {
+        "url": "/projects/emsure/wireframe-plan-detail.png",
+        "caption": "Wireframe design for the plan detail interface within the insurance management system.",
+        "type": "UI/UX Design",
+        "alt": "Emsure - Plan Detail Wireframe"
+      }
+    ],
+    "challenges": [
+      "Designing a flexible database schema that could accommodate different types of insurance policies",
+      "Implementing secure user authentication and role-based access control",
+      "Creating an intuitive UI for complex insurance workflows",
+      "Ensuring data consistency across multiple user sessions",
+      "Optimizing database queries for better performance with large datasets"
+    ]
+  },
+  {
+    "title": "eSalesNepal: E-commerce Platform",
+    "image": "/projects/eSalesNepal.png",
+    "featured": true,
+    "tags": ["React", "Node", "MongoDB", "FullStack"],
+    "live-preview": "https://esalesnepal.com"
+  },
+  {
+    "title": "Markdown Live Editor",
+    "image": "/projects/markdown-live-editor.png",
+    "featured": true,
+    "tags": ["React", "Frontend"],
+    "live-preview": "https://markdown-live-editor-ten.vercel.app/",
+    "github-links": "https://github.com/dixxanta08/Markdown-Live-Editor"
+  },
+  {
+    "title": "Web Analyzer",
+    "image": "/projects/web-analyzer.png",
+    "featured": true,
+    "tags": ["React", "Frontend", "API"],
+    "live-preview": "https://webanalyzer-seven.vercel.app/",
+    "github-links": "https://github.com/dixxanta08/web-analyzer"
+  },
+  {
+    "title": "Appointment Booking System (AWS)",
+    "image": "/projects/aws.png",
+    "featured": true,
+    "tags": ["AWS", "Cloud", "Next.js", "FullStack"]
+  },
+  {
+    "title": "Riverend: Food Ordering Platform",
+    "image": "/projects/riverend.png",
+    "featured": false,
+    "tags": [".NET", "SQL Server", "FullStack", "Food Ordering"],
+    "description": "A comprehensive food ordering platform built with .NET framework and SQL Server database, enabling customers to browse menus, place orders, and track deliveries."
+  },
+  {
+    "title": "Krissakamde: Business Website",
+    "image": "/projects/krissak.png",
+    "featured": false,
+    "tags": ["WordPress", "CMS", "Website Development"],
+    "description": "A professional business website developed using WordPress, featuring custom themes and content management capabilities."
+  },
+  {
+    "title": "Cafeteria Management System",
+    "image": "/projects/Cafeteria Management System.png",
+    "featured": false,
+    "tags": ["Java", "RMI", "MySQL", "Desktop Application"],
+    "description": "A desktop-based cafeteria management system built with Java RMI (Remote Method Invocation) and MySQL database for managing orders, inventory, and customer transactions."
+  }
+]

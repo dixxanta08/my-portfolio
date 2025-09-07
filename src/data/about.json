@@ -1,0 +1,171 @@
+{
+  "personalInfo": {
+    "name": "Dixanta Nath Shrestha",
+    "title": "Full Stack Developer & IT Professional",
+    "email": "your.email@example.com",
+    "location": "Nepal",
+    "summary": "Passionate full-stack developer with expertise in modern web technologies, cloud computing, and project management. Experienced in building scalable applications and leading development teams."
+  },
+  "education": [
+    {
+      "degree": "Masters in IT and Management",
+      "institution": "Lord Buddha Education Foundation (LBEF) College",
+      "institution-location": "Katmandu, Nepal",
+      "university": "Asia Pacific University of Innovation and Technology (Affiliation)",
+      "university-location": "Malaysia",
+      "duration": "September 2025 - Ongoing",
+      "status": "Current",
+      "description": "Advanced studies in Information Technology management, combining technical expertise with business skills.",
+      "image": "/education/masters-it-management.png"
+    },
+    {
+      "degree": "Bachelor's Degree",
+      "institution": "Lord Buddha Education Foundation (LBEF) College",
+      "institution-location": "Katmandu, Nepal",
+      "university": "Asia Pacific University of Innovation and Technology (Affiliation)",
+      "university-location": "Malaysia",
+      "duration": "2022 - 2025",
+      "status": "Completed",
+      "CGPA": "3.84/4.0",
+      "description": "Comprehensive education in business and technology fundamentals with practical experience in software development and project management.",
+      "image": "/education/bachelors-degree.png"
+    }
+  ],
+  "professionalExperience": [
+    {
+      "company": "Bechchha",
+      "position": "Full Stack Developer & Project Lead",
+      "duration": "2025 - Present",
+      "type": "Full-time",
+      "description": "Leading full-stack development of a comprehensive e-commerce platform, managing both technical implementation and project coordination.",
+      "responsibilities": [
+        "Architected and developed scalable e-commerce platform using modern web technologies",
+        "Led development team and coordinated project timelines and deliverables",
+        "Implemented secure payment systems and user authentication",
+        "Optimized application performance and user experience",
+        "Managed database design and API development"
+      ],
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "JWT Authentication"
+      ],
+      "achievements": [
+        "Successfully delivered complete e-commerce solution",
+        "Led team of 3 developers"
+      ],
+      "image": "/companies/bechchha.png"
+    },
+    {
+      "company": "Spices Research & Consulting Pvt Ltd",
+      "position": "Frontend Developer Intern",
+      "location": "F1Soft Manidown, Lalitpur",
+      "duration": "April 2024 - July 2024",
+      "type": "Internship",
+      "description": "Frontend development internship focusing on React components optimization and custom solutions for the Providhy project.",
+      "responsibilities": [
+        "Built and optimized React components for the Providhy project, improving UI/UX for purchase, sales, and master dashboard",
+        "Developed a custom Nepali date picker from scratch, solving the limitations of existing libraries",
+        "Refactored and streamlined frontend code, boosting performance, reusability, and maintainability",
+        "Worked closely with cross-functional teams to deliver solutions that aligned with project requirements"
+      ],
+      "technologies": [
+        "React",
+        "JavaScript",
+        "UI/UX Development",
+        "Custom Component Development",
+        "Frontend Optimization"
+      ],
+      "achievements": [
+        "Created custom Nepali date picker solving library limitations",
+        "Improved frontend performance through code refactoring",
+        "Enhanced UI/UX for multiple dashboard components",
+        "Successfully collaborated with cross-functional teams"
+      ],
+      "image": "/companies/spices-research.png"
+    }
+  ],
+  "leadershipAndVolunteerExperience": [
+    {
+      "organization": "LBEF (Lord Buddha Education Foundation)",
+      "position": "President, Student Representative Council (SRC)",
+      "duration": "2023 - 2024",
+      "type": "Leadership",
+      "description": "Led the student body representation and collaborated with administration for student welfare initiatives.",
+      "responsibilities": [
+        "Represented the student body in administrative meetings",
+        "Collaborated with administration for student welfare initiatives",
+        "Led the organization of Winter Fest 2024",
+        "Advocated for student rights and concerns",
+        "Facilitated communication between students and faculty"
+      ],
+      "achievements": [
+        "Successfully organized Winter Fest 2024",
+        "Improved student-administration relationships",
+        "Enhanced student welfare programs"
+      ],
+      "image": "/leadership/src-president.png"
+    },
+    {
+      "organization": "HackxLBEF (Hackathon)",
+      "position": "Event Advisor",
+      "duration": "2024",
+      "type": "Advisory",
+      "description": "Provided strategic advice and support in planning and executing HackxLBEF hackathon event.",
+      "responsibilities": [
+        "Provided advice and support in planning and executing HackxLBEF",
+        "Contributed to event strategy and logistics",
+        "Mentored participants during the hackathon",
+        "Ensured smooth execution of technical events"
+      ],
+      "achievements": [
+        "Contributed to the success of HackxLBEF",
+        "Facilitated successful hackathon execution",
+        "Mentored aspiring developers"
+      ],
+      "image": "/events/hackxlbef.png"
+    },
+    {
+      "organization": "LBEF (Lord Buddha Education Foundation)",
+      "position": "Lead Organizer - Dashain Fest",
+      "duration": "2024",
+      "type": "Event Organization",
+      "description": "Led the organization and execution of Dashain Fest 2024, managing all aspects of the cultural celebration.",
+      "responsibilities": [
+        "Planned and coordinated Dashain Fest 2024",
+        "Managed event logistics and team coordination",
+        "Coordinated with vendors and sponsors",
+        "Ensured cultural authenticity and student engagement"
+      ],
+      "achievements": [
+        "Successfully organized Dashain Fest 2024",
+        "Enhanced cultural celebration experience",
+        "Increased student participation in cultural events"
+      ],
+      "image": "/events/dashain-fest.png"
+    },
+    {
+      "organization": "LBEF (Lord Buddha Education Foundation)",
+      "position": "Head of Social and ECA Club",
+      "duration": "2022 - 2023",
+      "type": "Leadership",
+      "description": "Led the Social and Extra-Curricular Activities (ECA) club, organizing various events and fostering student engagement.",
+      "responsibilities": [
+        "Led Social and ECA club activities",
+        "Organized Christmas Fest 2022",
+        "Planned and executed various social events",
+        "Coordinated extra-curricular activities",
+        "Built student community engagement"
+      ],
+      "achievements": [
+        "Successfully organized Christmas Fest 2022",
+        "Increased student participation in social activities",
+        "Built strong community within the college",
+        "Enhanced student social experience"
+      ],
+      "image": "/leadership/eca-head.png"
+    }
+  ]
+}

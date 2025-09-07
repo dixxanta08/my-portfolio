@@ -1,0 +1,302 @@
+{
+  "technicalSkills": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        {
+          "skillName": "Python",
+          "realWorldApplication": "Enterprise web applications, data analysis, machine learning models, automation scripts",
+          "image": "/skills/python.png",
+          "projects": []
+        },
+        {
+          "skillName": "JavaScript",
+          "realWorldApplication": "Full-stack web development, single-page applications, server-side development",
+          "image": "/skills/javascript.png",
+          "projects": []
+        },
+        {
+          "skillName": "R",
+          "realWorldApplication": "Data science, statistical modeling, business analytics, research analysis",
+          "image": "/skills/r.png",
+          "projects": []
+        },
+        {
+          "skillName": "Java",
+          "realWorldApplication": "Enterprise applications, microservices, distributed systems, Android development",
+          "image": "/skills/java.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "Backend Frameworks",
+      "skills": [
+        {
+          "skillName": "Django",
+          "realWorldApplication": "Enterprise web applications, CMS systems, e-commerce platforms, API development",
+          "image": "/skills/django.png",
+          "projects": []
+        },
+        {
+          "skillName": "Node.js",
+          "realWorldApplication": "REST APIs, real-time applications, microservices, server-side rendering",
+          "image": "/skills/nodejs.png",
+          "projects": []
+        },
+        {
+          "skillName": "Express.js",
+          "realWorldApplication": "API development, web servers, middleware systems, microservices",
+          "image": "/skills/express.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "Frontend Technologies",
+      "skills": [
+        {
+          "skillName": "React",
+          "realWorldApplication": "Interactive user interfaces, dashboard applications, e-commerce sites, admin panels",
+          "image": "/skills/react.png",
+          "projects": []
+        },
+        {
+          "skillName": "Next.js",
+          "realWorldApplication": "Production-ready web applications, e-commerce sites, marketing websites, blogs",
+          "image": "/skills/nextjs.png",
+          "projects": []
+        },
+        {
+          "skillName": "Tailwind CSS",
+          "realWorldApplication": "Rapid UI development, responsive design systems, component libraries",
+          "image": "/skills/tailwind.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "UI Libraries & Components",
+      "skills": [
+        {
+          "skillName": "Ant Design",
+          "realWorldApplication": "Enterprise dashboards, admin panels, data management interfaces",
+          "image": "/skills/antd.png",
+          "projects": []
+        },
+        {
+          "skillName": "shadcn/ui",
+          "realWorldApplication": "Design systems, accessible web applications, component libraries",
+          "image": "/skills/shadcn.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "State Management & Data Fetching",
+      "skills": [
+        {
+          "skillName": "TanStack Query",
+          "realWorldApplication": "Data-heavy applications, real-time dashboards, API state management",
+          "image": "/skills/tanstack-query.png",
+          "projects": []
+        },
+        {
+          "skillName": "React Router",
+          "realWorldApplication": "Single-page applications, protected admin areas, dynamic content routing",
+          "image": "/skills/react-router.png",
+          "projects": []
+        },
+        {
+          "skillName": "TanStack Table",
+          "realWorldApplication": "Data management interfaces, reporting dashboards, admin panels",
+          "image": "/skills/tanstack-table.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "Forms & Validation",
+      "skills": [
+        {
+          "skillName": "React Hook Form",
+          "realWorldApplication": "User registration, data entry forms, survey applications, admin interfaces",
+          "image": "/skills/react-hook-form.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "Authentication & Security",
+      "skills": [
+        {
+          "skillName": "JWT Authentication",
+          "realWorldApplication": "Secure web applications, API authentication, user session management",
+          "image": "/skills/jwt.png",
+          "projects": []
+        },
+        {
+          "skillName": "Cookie-based Authentication",
+          "realWorldApplication": "Multi-domain applications, session management, secure user authentication",
+          "image": "/skills/cookies.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "Databases",
+      "skills": [
+        {
+          "skillName": "MongoDB",
+          "realWorldApplication": "Document-based applications, content management systems, real-time analytics",
+          "image": "/skills/mongodb.png",
+          "projects": []
+        },
+        {
+          "skillName": "MySQL",
+          "realWorldApplication": "Enterprise applications, e-commerce systems, financial applications",
+          "image": "/skills/mysql.png",
+          "projects": []
+        },
+        {
+          "skillName": "SQL & Advanced Features",
+          "realWorldApplication": "Enterprise data management, automated workflows, data validation systems",
+          "image": "/skills/sql.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "Cloud Services (AWS)",
+      "skills": [
+        {
+          "skillName": "AWS (Amazon Web Services)",
+          "realWorldApplication": "Cloud infrastructure, scalable web applications, microservices deployment, database management, serverless computing, message queuing, notification services, and secure access control for enterprise applications",
+          "image": "/skills/aws.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "Deployment & Infrastructure",
+      "skills": [
+        {
+          "skillName": "VPS Deployment",
+          "realWorldApplication": "Custom hosting solutions, development environments, production deployments, server configuration and management",
+          "image": "/skills/vps.png",
+          "projects": []
+        },
+        {
+          "skillName": "Git & Version Control",
+          "realWorldApplication": "Source code management, team collaboration, code versioning, branching strategies, continuous integration workflows",
+          "image": "/skills/git.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "API Development",
+      "skills": [
+        {
+          "skillName": "REST APIs",
+          "realWorldApplication": "Web services, mobile app backends, third-party integrations, microservices",
+          "image": "/skills/rest-api.png",
+          "projects": []
+        },
+        {
+          "skillName": "WebSocket",
+          "realWorldApplication": "Real-time messaging, live updates, collaborative tools, gaming applications",
+          "image": "/skills/websocket.png",
+          "projects": []
+        },
+        {
+          "skillName": "RPC (Remote Procedure Call)",
+          "realWorldApplication": "Microservices communication, distributed computing, enterprise integrations",
+          "image": "/skills/rpc.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "Design & Prototyping",
+      "skills": [
+        {
+          "skillName": "Figma",
+          "realWorldApplication": "UI/UX design, prototyping, design systems, collaborative design workflows",
+          "image": "/skills/figma.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "Programming Paradigms",
+      "skills": [
+        {
+          "skillName": "Object-Oriented Programming",
+          "realWorldApplication": "Enterprise software development, code reusability, maintainable systems, design patterns",
+          "image": "/skills/oop.png",
+          "projects": []
+        }
+      ]
+    }
+  ],
+  "softSkills": [
+    {
+      "category": "Communication Skills",
+      "skills": [
+        {
+          "skillName": "Technical Documentation",
+          "realWorldApplication": "Project handovers, team collaboration, knowledge sharing, stakeholder communication",
+          "image": "/skills/documentation.png",
+          "projects": []
+        },
+        {
+          "skillName": "Team Communication",
+          "realWorldApplication": "Cross-functional collaboration, stakeholder management, conflict resolution, project coordination",
+          "image": "/skills/communication.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "Collaboration & Leadership",
+      "skills": [
+        {
+          "skillName": "Teamwork",
+          "realWorldApplication": "Agile development teams, cross-functional projects, event management, professional environments",
+          "image": "/skills/teamwork.png",
+          "projects": []
+        },
+        {
+          "skillName": "Event Organization",
+          "realWorldApplication": "Project management, resource coordination, timeline management, stakeholder engagement",
+          "image": "/skills/event-organization.png",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "category": "Analytical Thinking",
+      "skills": [
+        {
+          "skillName": "Problem Solving",
+          "realWorldApplication": "Technical troubleshooting, system optimization, bug resolution, architecture decisions",
+          "image": "/skills/problem-solving.png",
+          "projects": []
+        },
+        {
+          "skillName": "Critical Thinking",
+          "realWorldApplication": "Architecture decisions, technology selection, code reviews, strategic planning",
+          "image": "/skills/critical-thinking.png",
+          "projects": []
+        },
+        {
+          "skillName": "Logical & Rational Analysis",
+          "realWorldApplication": "System design, debugging, optimization, technical decision making",
+          "image": "/skills/logical-thinking.png",
+          "projects": []
+        }
+      ]
+    }
+  ]
+}
